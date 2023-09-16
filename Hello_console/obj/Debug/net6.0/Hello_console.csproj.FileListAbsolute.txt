@@ -1,0 +1,15 @@
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\bin\Debug\net6.0\Hello_console.exe
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\bin\Debug\net6.0\Hello_console.deps.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\bin\Debug\net6.0\Hello_console.runtimeconfig.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\bin\Debug\net6.0\Hello_console.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\bin\Debug\net6.0\Hello_console.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.csproj.AssemblyReference.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.AssemblyInfoInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.AssemblyInfo.cs
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.csproj.CoreCompileInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\refint\Hello_console.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\Hello_console.genruntimeconfig.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Hello_console\obj\Debug\net6.0\ref\Hello_console.dll
