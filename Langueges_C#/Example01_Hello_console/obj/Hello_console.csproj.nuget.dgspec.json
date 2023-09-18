@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Hello_console\\Hello_console.csproj": {}
+    "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Langueges_C#\\Example01_Hello_console\\Hello_console.csproj": {}
   },
   "projects": {
-    "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Hello_console\\Hello_console.csproj": {
+    "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Langueges_C#\\Example01_Hello_console\\Hello_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Hello_console\\Hello_console.csproj",
+        "projectUniqueName": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Langueges_C#\\Example01_Hello_console\\Hello_console.csproj",
         "projectName": "Hello_console",
-        "projectPath": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Hello_console\\Hello_console.csproj",
+        "projectPath": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Langueges_C#\\Example01_Hello_console\\Hello_console.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Hello_console\\obj\\",
+        "outputPath": "D:\\Учеба_разработчик\\3. Знакомство с языками программирования\\Langueges_C#\\Example01_Hello_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
