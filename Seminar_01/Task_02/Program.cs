@@ -29,3 +29,7 @@ if (a == 7)
 {
 Console.WriteLine("Воскресенье");
 }
+else 
+{
+Console.WriteLine("Вы не правы");
+}
