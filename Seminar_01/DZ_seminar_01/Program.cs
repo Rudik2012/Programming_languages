@@ -51,5 +51,4 @@ while (count <= N) {
         Console.Write("{0},", count);
     }       
     count++;
-}
-
+} 
